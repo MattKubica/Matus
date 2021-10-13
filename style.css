@@ -1,0 +1,9 @@
+.core {
+text-align: center;
+margin: auto;
+font-family: fantasy;
+}
+body {
+    background: linear-gradient(to right, red , yellow);
+
+}
